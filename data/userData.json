@@ -1,0 +1,30 @@
+[
+  {
+    "role": "admin",
+    "_id": "652d2fe501293c5774a878b6",
+    "name": "Жинхэнэ АДМИН",
+    "email": "admin@gmail.com",
+    "password": 1324
+  },
+  {
+    "role": "admin",
+    "_id": "652d3c9c05535409dc965a4f",
+    "name": "muuguu",
+    "email": "muuguu@gmail.com",
+    "password": 1324
+  },
+  {
+    "role": "operator",
+    "_id": "652d411aed5e3b1340954617",
+    "name": "Оператор",
+    "email": "operator@gmail.com",
+    "password": 1324
+  },
+  {
+    "role": "user",
+    "_id": "652d428cde132d69fc815d79",
+    "name": "Хэрэглэгч",
+    "email": "user@gmail.com",
+    "password": 1324
+  }
+]

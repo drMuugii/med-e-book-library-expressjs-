@@ -1,0 +1,372 @@
+[
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b1ef",
+    "name": "Anaesthesiology",
+    "description": "Concerned with providing anesthesia and perioperative medical care to surgical patients.",
+    "createdAt": "2023-10-10T11:59:45.989Z",
+    "slug": "anaesthesiology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b1ef"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b1f0",
+    "name": "Anatomy",
+    "description": "The study of the structure of organisms and their parts.",
+    "createdAt": "2023-10-10T11:59:45.990Z",
+    "slug": "anatomy",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b1f0"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b1f1",
+    "name": "Cardiology",
+    "description": "Specializes in disorders of the heart and the circulatory system.",
+    "createdAt": "2023-10-10T11:59:45.990Z",
+    "slug": "cardiology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b1f1"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b1f2",
+    "name": "Clinic pathology",
+    "description": "Focuses on laboratory analysis and interpretation of medical data and Hematology, Biochemistery, Immunology",
+    "createdAt": "2023-10-10T11:59:45.991Z",
+    "slug": "clinic-pathology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b1f2"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b1f3",
+    "name": "Dermatology",
+    "description": "Deals with the skin, its structure, functions, and diseases.",
+    "createdAt": "2023-10-10T11:59:45.991Z",
+    "slug": "dermatology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b1f3"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b1f4",
+    "name": "Diagnostic Imaging",
+    "description": "Involves various techniques to create visual representations of the interior of a body for clinical analysis and medical intervention.",
+    "createdAt": "2023-10-10T11:59:45.991Z",
+    "slug": "diagnostic-imaging",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b1f4"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b1f5",
+    "name": "Dictionaries and encyclopedias",
+    "description": "Reference materials providing definitions and explanations of terms and concepts.",
+    "createdAt": "2023-10-10T11:59:45.991Z",
+    "slug": "dictionaries-and-encyclopedias",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b1f5"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b1f6",
+    "name": "Embryology",
+    "description": "Studies the development of embryos and fetuses.",
+    "createdAt": "2023-10-10T11:59:45.992Z",
+    "slug": "embryology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b1f6"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b1f7",
+    "name": "Emergency Medicine",
+    "description": "Focuses on the immediate medical care of acutely ill or injured patients.",
+    "createdAt": "2023-10-10T11:59:45.992Z",
+    "slug": "emergency-medicine",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b1f7"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b1f8",
+    "name": "Endocrinology",
+    "description": "Focuses on the endocrine system and its disorders.",
+    "createdAt": "2023-10-10T11:59:45.992Z",
+    "slug": "endocrinology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b1f8"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b1f9",
+    "name": "Gastroenterology",
+    "description": "Specializes in the digestive system and its disorders.",
+    "createdAt": "2023-10-10T11:59:45.992Z",
+    "slug": "gastroenterology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b1f9"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b1fa",
+    "name": "Gerontology",
+    "description": "Focuses on the aging process and issues related to older adults.",
+    "createdAt": "2023-10-10T11:59:45.992Z",
+    "slug": "gerontology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b1fa"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b1fb",
+    "name": "Handbook",
+    "description": "A concise reference book providing specific information on a particular subject.",
+    "createdAt": "2023-10-10T11:59:45.993Z",
+    "slug": "handbook",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b1fb"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b1fc",
+    "name": "Internal Medicine",
+    "description": "Involves the prevention, diagnosis, and treatment of adult diseases.",
+    "createdAt": "2023-10-10T11:59:45.993Z",
+    "slug": "internal-medicine",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b1fc"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b1fd",
+    "name": "National and international publications",
+    "description": "Journals and publications from specific countries or organizations.",
+    "createdAt": "2023-10-10T11:59:45.993Z",
+    "slug": "national-and-international-publications",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b1fd"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b201",
+    "name": "Neuroscience",
+    "description": "Explores the scientific study of the nervous system.",
+    "createdAt": "2023-10-10T11:59:45.994Z",
+    "slug": "neuroscience",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b201"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b202",
+    "name": "Obstetrics and Gynecology",
+    "description": "Focuses on women's reproductive health, pregnancy, and childbirth.",
+    "createdAt": "2023-10-10T11:59:45.994Z",
+    "slug": "obstetrics-and-gynecology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b202"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b1fe",
+    "name": "Nephrology",
+    "description": "Specializes in the study and treatment of kidney diseases.",
+    "createdAt": "2023-10-10T11:59:45.993Z",
+    "slug": "nephrology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b1fe"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b203",
+    "name": "Occupational Health",
+    "description": "Concentrates on the health and well-being of people at work.",
+    "createdAt": "2023-10-10T11:59:45.994Z",
+    "slug": "occupational-health",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b203"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b204",
+    "name": "Ophthalmology",
+    "description": "Specializes in the anatomy, physiology, and diseases of the eye.",
+    "createdAt": "2023-10-10T11:59:45.994Z",
+    "slug": "ophthalmology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b204"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b200",
+    "name": "Neurology",
+    "description": "Deals with disorders of the nervous system, including the brain and spinal cord.",
+    "createdAt": "2023-10-10T11:59:45.994Z",
+    "slug": "neurology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b200"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b1ff",
+    "name": "Neuroanatomy",
+    "description": "Focuses on the structure and organization of the nervous system.",
+    "createdAt": "2023-10-10T11:59:45.993Z",
+    "slug": "neuroanatomy",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b1ff"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b207",
+    "name": "Pathology",
+    "description": "Involves the study of the causes and effects of diseases.",
+    "createdAt": "2023-10-10T11:59:45.995Z",
+    "slug": "pathology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b207"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b205",
+    "name": "Orthopedics",
+    "description": "Specializes in conditions involving the musculoskeletal system.",
+    "createdAt": "2023-10-10T11:59:45.994Z",
+    "slug": "orthopedics",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b205"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b206",
+    "name": "Paediatrics",
+    "description": "Concentrates on medical care for infants, children, and adolescents.",
+    "createdAt": "2023-10-10T11:59:45.994Z",
+    "slug": "paediatrics",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b206"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b208",
+    "name": "Pathophysiology",
+    "description": "Explores the physiological processes associated with disease or injury.",
+    "createdAt": "2023-10-10T11:59:45.995Z",
+    "slug": "pathophysiology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b208"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b20a",
+    "name": "Physical Medicine, Rehabilitation",
+    "description": "Aims to enhance and restore functional ability and quality of life for people with physical impairments or disabilities,  ",
+    "createdAt": "2023-10-10T11:59:45.995Z",
+    "slug": "physical-medicine-rehabilitation",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b20a"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b20d",
+    "name": "Pulmonology",
+    "description": "Focuses on diseases of the lungs and the respiratory system.",
+    "createdAt": "2023-10-10T11:59:45.995Z",
+    "slug": "pulmonology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b20d"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b20e",
+    "name": "Reference guides",
+    "description": "Materials used for quick reference and information lookup.",
+    "createdAt": "2023-10-10T11:59:45.995Z",
+    "slug": "reference-guides",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b20e"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b20f",
+    "name": "Rheumatology",
+    "description": "Focuses on disorders of the joints, muscles, and ligaments.",
+    "createdAt": "2023-10-10T11:59:45.995Z",
+    "slug": "rheumatology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b20f"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b20b",
+    "name": "Physiology",
+    "description": "Studies the normal functioning of living organisms and their parts.",
+    "createdAt": "2023-10-10T11:59:45.995Z",
+    "slug": "physiology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b20b"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b209",
+    "name": "Pharmacology",
+    "description": "Studies how drugs interact with biological systems.",
+    "createdAt": "2023-10-10T11:59:45.995Z",
+    "slug": "pharmacology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b209"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b20c",
+    "name": "Psychology",
+    "description": "Studies the mind and behavior.",
+    "createdAt": "2023-10-10T11:59:45.995Z",
+    "slug": "psychology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b20c"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b212",
+    "name": "Palliative Care",
+    "description": "Specialized medical care for people with serious illnesses, focusing on providing relief from symptoms and stress,",
+    "createdAt": "2023-10-10T11:59:45.995Z",
+    "slug": "palliative-care",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b212"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b213",
+    "name": "Sport medicine",
+    "description": "Specializes in preventing, diagnosing, and treating injuries related to sports and exercise.",
+    "createdAt": "2023-10-10T11:59:45.996Z",
+    "slug": "sport-medicine",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b213"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b210",
+    "name": "Surgery",
+    "description": "Involves operative procedures to treat diseases, injuries, or deformities.",
+    "createdAt": "2023-10-10T11:59:45.995Z",
+    "slug": "surgery",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b210"
+  },
+  {
+    "picture": "none.jpg",
+    "_id": "65253cb1caca6f7754d0b211",
+    "name": "Urology",
+    "description": "Focuses on diseases of the urinary tract and the male reproductive system.",
+    "createdAt": "2023-10-10T11:59:45.995Z",
+    "slug": "urology",
+    "__v": 0,
+    "id": "65253cb1caca6f7754d0b211"
+  }
+]
